@@ -1,6 +1,8 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://i.gifer.com/JXA0.gif" alt="cover" />
+<img width="100%" height = "250px" src="JXA0.gif" alt="Afonne-CID cover image" />
 </div>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Afonne-CID.Afonne-CID)
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
