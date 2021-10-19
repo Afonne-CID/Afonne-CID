@@ -52,6 +52,8 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Insta Gain Followers Strategy: How to Gain More Followers On Instagram](https://afonne.com/insta-gain-followers-strategy-how-to-gain-more-followers-on-instagram/)
+- [A Career In UI/UX after 30: Too Old?](https://afonne.com/a-career-in-ui-ux-after-30-tool-old/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
