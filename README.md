@@ -5,8 +5,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Afonne-CID.Afonne-CID)
 
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/vaakash/socializer@2f749eb/css/socializer.min.css">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+<div class="socializer" data-features="32px,opacity,bdr-md,bg-none,pad" data-sites="facebook,twitter" data-meta-facebook="https://www.facebook.com/afonnepaul" data-meta-twitter="https://www.twitter.com/afonnepaul"></div>
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
