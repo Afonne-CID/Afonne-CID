@@ -1,4 +1,4 @@
-[VIEW MY PORTFOLIO HERE](https://afonne-cid.github.io/my-portfolio.github.io/)
+# [VIEW MY PORTFOLIO HERE](https://afonne-cid.github.io/my-portfolio.github.io/){target="_blank"}
 <br>
 <br>
 <br>
