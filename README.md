@@ -1,4 +1,4 @@
-# <a href="https://afonne-cid.github.io/my-portfolio.github.io/" target="_blank">VIEW MY PORTFOLIO HERE</a>
+# <a href="https://gifted-jang-9534d2.netlify.app/" target="_blank">VIEW MY PORTFOLIO HERE</a>
 <br>
 <br>
 <br>
