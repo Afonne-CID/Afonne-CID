@@ -11,7 +11,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Afonne-CID.Afonne-CID)
 
 
-<div class="socializer" data-features="32px,opacity,bdr-md,bg-none,pad" data-sites="facebook,twitter" data-meta-facebook="https://www.facebook.com/afonnepaul" data-meta-twitter="https://www.twitter.com/afonnepaul"></div>
+<div class="socializer" data-features="32px,opacity,bdr-md,bg-none,pad" data-sites="facebook,twitter" data-meta-facebook="https://www.facebook.com/afonneblog" data-meta-twitter="https://www.twitter.com/__cid___"></div>
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
