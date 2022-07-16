@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![profile feature image](twitter_cid.png "My mantra")
+![profile feature image](twitter_cid.PNG "My mantra")
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Afonne-CID.Afonne-CID)
 
@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently looking for a tech job for the post of a Junior Developer
   
-...my biggest interest is in making life easier and businesses more profitable by solving problems by automating daily mundane tasks in life and business with technology.
+...my biggest interest is in making life easier and businesses more profitable by solving problems, digitizing manual processes and automating daily mundane tasks in life and business with technology.
 
 I have led a team of 4 (UI/UX Designer, Mobile Developer, Frontend Developer, and I, Backend Engineer) to a social payment hackerton organized by Credo where we made it to the finalist 10 out of tens of participating teams.
 
