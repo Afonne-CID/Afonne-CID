@@ -1,8 +1,4 @@
 # <a href="https://gifted-jang-9534d2.netlify.app/" target="_blank">VIEW MY PORTFOLIO HERE</a>
-<br>
-<br>
-<br>
-<br>
 
 ![profile feature image](twitter_cid.PNG "My mantra")
 
