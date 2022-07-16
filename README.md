@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![profile feature image](afonne-cid/twitter_cid.png "My mantra")
+![profile feature image](twitter_cid.png "My mantra")
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Afonne-CID.Afonne-CID)
 
@@ -12,20 +12,14 @@
 <div class="socializer" data-features="32px,opacity,bdr-md,bg-none,pad" data-sites="facebook,twitter" data-meta-facebook="https://www.facebook.com/afonneblog" data-meta-twitter="https://www.twitter.com/__cid___"></div>
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello, My name is 'CID' <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-</p>
-<div size='20px'> Hi! My name is Afonne-CID. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
   
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently looking for a tech job for Junior Developer Position
+- 🔭 I’m currently looking for a tech job for the post of a Junior Developer
   
-My name is CID and my biggest interest is in making life easier and businesses more profitable by solving problems by automating daily mundane tasks in life and business with technology.
+...my biggest interest is in making life easier and businesses more profitable by solving problems by automating daily mundane tasks in life and business with technology.
 
 I have led a team of 4 (UI/UX Designer, Mobile Developer, Frontend Developer, and I, Backend Engineer) to a social payment hackerton organized by Credo where we made it to the finalist 10 out of tens of participating teams.
 
