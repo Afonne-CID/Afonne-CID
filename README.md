@@ -4,9 +4,7 @@
 <br>
 <br>
 
-<div align="center">
-<img width="60%" height = "250px" src="Z5QA.gif" alt="Afonne-CID: Coding never ends" />
-</div>
+![](twitter_cid.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Afonne-CID.Afonne-CID)
 
