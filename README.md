@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![](twitter_cid.png)
+![profile feature image](afonne-cid/twitter_cid.png "My mantra")
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Afonne-CID.Afonne-CID)
 
@@ -15,31 +15,32 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Afonne-CID.Afonne-CID)
-
 </p>
 <div size='20px'> Hi! My name is Afonne-CID. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
+  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🔭 I’m currently looking for a tech job for Junior Developer Position
+  
+My name is CID and my biggest interest is in making life easier and businesses more profitable by solving problems by automating daily mundane tasks in life and business with technology.
 
-- 🔭 I’m currently working on Software Engineering Projects
+I have led a team of 4 (UI/UX Designer, Mobile Developer, Frontend Developer, and I, Backend Engineer) to a social payment hackerton organized by Credo where we made it to the finalist 10 out of tens of participating teams.
 
-- 🌱 I’m currently learning Python, C, JavaScript and React 
+Interestingly, before delving into Software Engineering, all my 6 years of work experience have all been in Cyber-cafes and computer centers where I either work as a manager, an instructor, operator or do typesetting and graphics to clients.
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+I intend to solve problems and be part of solutions in a reputable organization by utilizing and leveraging this fundamental knowledge and experiences; the sign off, skills and certification from my Udacity Fullstack Developer + ALX-T scholarship course completion, the certification and endorsement from ALX Africa in a 15-months intensive project-based Software Engineering Programme as a Backend Engineer.
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+<a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
+<a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
