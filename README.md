@@ -1,6 +1,5 @@
 <div class="socializer" data-features="32px,opacity,bdr-md,bg-none,pad" data-sites="facebook,twitter" data-meta-facebook="https://www.facebook.com/afonneblog" data-meta-twitter="https://www.twitter.com/__cid___"></div>
 
-<a href= https://x.com/cee_eye_d > I'm CID, nice to meet you 🤝 </a>
 <a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
 <a href= https://github.com/Afonne-CID?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
